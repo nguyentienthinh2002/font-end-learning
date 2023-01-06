@@ -54,6 +54,7 @@
 	function Myfunction(p1,p2) {
 		return p1*p2;
 	}
+	console.log(1);
 	document.getElementById('demo4').innerHTML = Myfunction(4,3);
 
 
